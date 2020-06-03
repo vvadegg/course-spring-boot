@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="394105a3-6569-4398-9f7b-c8c7e99741fc" name="Default Changelist" comment="" />
+    <list default="true" id="394105a3-6569-4398-9f7b-c8c7e99741fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/course-spring-boot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/course-spring-boot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/greeting.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/main.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/registration.mustache" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +39,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,27 +64,32 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1clWBfjwE5yZrVVvgPnN53NmGj2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/example/sweater" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/parts" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.sweater" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\course-spring-boot\src\main\resources\templates\parts" />
       <recent name="D:\java\course-spring-boot\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.sweater.Application" />
       <module name="course-spring-boot" />
@@ -60,6 +99,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="course-spring-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sweater.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,14 +138,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591103525923</updated>
+      <workItem from="1591190682387" duration="838000" />
+      <workItem from="1591195883054" duration="1050000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ftl" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591105303206">
+    <state x="845" y="362" key="#Notifications" timestamp="1591196946177">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591105303206" />
+    <state x="845" y="362" key="#Notifications/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591196946177" />
+    <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591198452183">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591198452183" />
     <state x="765" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1591178376280">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
@@ -108,46 +166,58 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="761" y="367" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591173740920" />
-    <state width="1877" height="173" key="GridCell.Tab.0.bottom" timestamp="1591179324369">
+    <state x="740" y="256" key="FileChooserDialogImpl" timestamp="1591197511397">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="173" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591179324369" />
-    <state width="1877" height="173" key="GridCell.Tab.0.center" timestamp="1591179324368">
+    <state x="740" y="256" key="FileChooserDialogImpl/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197511397" />
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1591210580111">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="173" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591179324368" />
-    <state width="1877" height="173" key="GridCell.Tab.0.left" timestamp="1591179324367">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
+    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1591210580111">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="173" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591179324367" />
-    <state width="1877" height="173" key="GridCell.Tab.0.right" timestamp="1591179324369">
+    <state width="1877" height="292" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
+    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1591210580111">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="173" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591179324369" />
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1591128346204">
+    <state width="1877" height="292" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1591210580111">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591128346204" />
-    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1591128346203">
+    <state width="1877" height="292" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1591202378992">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591128346203" />
-    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1591128346203">
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
+    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1591202378992">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591128346203" />
-    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1591128346204">
+    <state width="1877" height="331" key="GridCell.Tab.1.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
+    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1591202378992">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591128346204" />
-    <state x="463" y="144" key="SettingsEditor" timestamp="1591127609264">
+    <state width="1877" height="331" key="GridCell.Tab.1.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1591202378992">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="463" y="144" key="SettingsEditor/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591127609264" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
+    <state x="463" y="144" key="SettingsEditor" timestamp="1591197572464">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="463" y="144" key="SettingsEditor/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197572464" />
     <state x="775" y="282" key="chooseDestDirectoryDialog" timestamp="1591173735205">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="775" y="282" key="chooseDestDirectoryDialog/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591173735205" />
+    <state x="92" y="92" width="1736" height="815" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591200722064">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="92" y="92" width="1736" height="815" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591200722064" />
+    <state x="273" y="138" width="1503" height="721" key="find.popup" timestamp="1591203404668">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="273" y="138" width="1503" height="721" key="find.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591203404668" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
