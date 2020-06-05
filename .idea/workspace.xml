@@ -2,33 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="394105a3-6569-4398-9f7b-c8c7e99741fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/security.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userEdit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/service/MailSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/RegistrationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/repos/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/repos/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/MvcConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/RegistrationController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/repos/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/repos/UserRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/service/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +33,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="02.freemaker" />
+        <entry key="$PROJECT_DIR$" value="03.PanelAdminRoles" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -153,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591210603020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PanelAdmin. Roles. Upload. Bootstrap">
+      <created>1591355993618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591355993618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +162,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add freemarket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add freemarket" />
+    <MESSAGE value="PanelAdmin. Roles. Upload. Bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="PanelAdmin. Roles. Upload. Bootstrap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="362" key="#Notifications" timestamp="1591196946177">
@@ -187,30 +186,30 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="761" y="367" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591173740920" />
-    <state x="626" y="97" key="CommitChangelistDialog2" timestamp="1591355962078">
+    <state x="626" y="97" key="CommitChangelistDialog2" timestamp="1591355989341">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="626" y="97" key="CommitChangelistDialog2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355962078" />
+    <state x="626" y="97" key="CommitChangelistDialog2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355989341" />
     <state x="740" y="256" key="FileChooserDialogImpl" timestamp="1591197511397">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="740" y="256" key="FileChooserDialogImpl/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197511397" />
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1591355896763">
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom" timestamp="1591360415180">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
-    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1591355896762">
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591360415180" />
+    <state width="1877" height="432" key="GridCell.Tab.0.center" timestamp="1591360415178">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896762" />
-    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1591355896762">
+    <state width="1877" height="432" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591360415178" />
+    <state width="1877" height="432" key="GridCell.Tab.0.left" timestamp="1591360415177">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896762" />
-    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1591355896763">
+    <state width="1877" height="432" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591360415177" />
+    <state width="1877" height="432" key="GridCell.Tab.0.right" timestamp="1591360415179">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="432" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591360415179" />
     <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
@@ -231,10 +230,10 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="463" y="144" key="SettingsEditor/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197572464" />
-    <state x="552" y="223" key="Vcs.Push.Dialog.v2" timestamp="1591210607550">
+    <state x="552" y="223" key="Vcs.Push.Dialog.v2" timestamp="1591356003198">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="552" y="223" key="Vcs.Push.Dialog.v2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210607550" />
+    <state x="552" y="223" key="Vcs.Push.Dialog.v2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591356003198" />
     <state x="775" y="282" key="chooseDestDirectoryDialog" timestamp="1591173735205">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
@@ -247,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="612" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591298801578" />
-    <state x="273" y="138" width="1503" height="721" key="find.popup" timestamp="1591297251626">
+    <state x="273" y="138" width="1503" height="721" key="find.popup" timestamp="1591359444752">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="273" y="138" width="1503" height="721" key="find.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591297251626" />
+    <state x="273" y="138" width="1503" height="721" key="find.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591359444752" />
     <state x="623" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1591354976441">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
