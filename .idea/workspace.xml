@@ -2,31 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="394105a3-6569-4398-9f7b-c8c7e99741fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/course-spring-boot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/security.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userEdit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/course-spring-boot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/MvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/greeting.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/main.mustache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/registration.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="02.freemaker" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +79,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/example/sweater" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/parts" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -141,6 +146,14 @@
       <workItem from="1591190682387" duration="838000" />
       <workItem from="1591195883054" duration="1050000" />
     </task>
+    <task id="LOCAL-00001" summary="Add freemarket">
+      <created>1591210603020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591210603020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,63 +162,79 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.ftl" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add freemarket" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add freemarket" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="845" y="362" key="#Notifications" timestamp="1591196946177">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="845" y="362" key="#Notifications/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591196946177" />
+    <state x="552" y="160" key="#Project_Structure" timestamp="1591345073810">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="552" y="160" key="#Project_Structure/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591345073810" />
     <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591198452183">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="703" y="308" key="#com.intellij.fileTypes.FileTypeChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591198452183" />
-    <state x="765" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1591178376280">
+    <state x="765" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1591342868292">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="765" y="191" key="#com.intellij.ide.util.MemberChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591178376280" />
+    <state x="765" y="191" key="#com.intellij.ide.util.MemberChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591342868292" />
     <state x="761" y="367" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591173740920">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="761" y="367" width="397" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591173740920" />
+    <state x="626" y="97" key="CommitChangelistDialog2" timestamp="1591355962078">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="626" y="97" key="CommitChangelistDialog2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355962078" />
     <state x="740" y="256" key="FileChooserDialogImpl" timestamp="1591197511397">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="740" y="256" key="FileChooserDialogImpl/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197511397" />
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1591210580111">
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
-    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1591210580111">
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1591355896762">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
-    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1591210580111">
+    <state width="1877" height="331" key="GridCell.Tab.0.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896762" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1591355896762">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
-    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1591210580111">
+    <state width="1877" height="331" key="GridCell.Tab.0.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896762" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210580111" />
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1591202378992">
+    <state width="1877" height="331" key="GridCell.Tab.0.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
-    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1591202378992">
+    <state width="1877" height="331" key="GridCell.Tab.1.bottom/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="331" key="GridCell.Tab.1.center" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
-    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1591202378992">
+    <state width="1877" height="331" key="GridCell.Tab.1.center/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="331" key="GridCell.Tab.1.left" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
-    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1591202378992">
+    <state width="1877" height="331" key="GridCell.Tab.1.left/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right" timestamp="1591355896763">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state width="1877" height="331" key="GridCell.Tab.1.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591202378992" />
+    <state width="1877" height="331" key="GridCell.Tab.1.right/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591355896763" />
     <state x="463" y="144" key="SettingsEditor" timestamp="1591197572464">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="463" y="144" key="SettingsEditor/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591197572464" />
+    <state x="552" y="223" key="Vcs.Push.Dialog.v2" timestamp="1591210607550">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="552" y="223" key="Vcs.Push.Dialog.v2/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591210607550" />
     <state x="775" y="282" key="chooseDestDirectoryDialog" timestamp="1591173735205">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
@@ -214,20 +243,17 @@
       <screen x="0" y="0" width="1920" height="999" />
     </state>
     <state x="92" y="92" width="1736" height="815" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591200722064" />
-    <state x="273" y="138" width="1503" height="721" key="find.popup" timestamp="1591203404668">
+    <state x="612" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591298801578">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="273" y="138" width="1503" height="721" key="find.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591203404668" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/sweater/Application.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="612" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591298801578" />
+    <state x="273" y="138" width="1503" height="721" key="find.popup" timestamp="1591297251626">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="273" y="138" width="1503" height="721" key="find.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591297251626" />
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1591354976441">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="623" y="214" width="672" height="678" key="search.everywhere.popup/-1280.0.1280.943/0.0.1920.999@0.0.1920.999" timestamp="1591354976441" />
   </component>
 </project>
